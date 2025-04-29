@@ -1,7 +1,11 @@
 #!/usr/bin/env python
 # encoding: utf-8
 
+import os, sys
 import time
+
+sys.path.append(os.path.join(os.path.dirname(__file__), "."))
+
 from db import DB
 
 class RAG(DB):
