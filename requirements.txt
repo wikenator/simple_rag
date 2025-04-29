@@ -1,0 +1,6 @@
+ipython==8.34.0
+ollama==0.4.8
+pinecone==5.4.2
+pinecone-plugin-inference==3.1.0
+pinecone-plugin-interface==0.0.7
+pyyaml==6.0.2
